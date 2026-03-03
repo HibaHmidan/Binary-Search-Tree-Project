@@ -64,8 +64,6 @@ The program provides the following menu options:
 10. **Exit**
    - Closes the program safely
 
----
 
-## Input File Format
 
 The program reads from a file named:
