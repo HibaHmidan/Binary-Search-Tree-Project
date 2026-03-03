@@ -63,7 +63,3 @@ The program provides the following menu options:
 
 10. **Exit**
    - Closes the program safely
-
-
-
-The program reads from a file named:
